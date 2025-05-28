@@ -3,11 +3,11 @@
 
 ![WA2_GIT](https://github.com/user-attachments/assets/48cfe620-4b58-43aa-a1bc-9598d0072d6a)
 
-#Aplikacja Sprawdzajaca pogode 1
+# Aplikacja Sprawdzajaca pogode
 
 Ten projekt to prosta aplikacja pogodowa napisana w Javie przy użyciu frameworka Spring Boot. Pozwala użytkownikowi na wprowadzenie nazwy miasta i wyświetla aktualne warunki pogodowe dla tego miasta.
 
-##Na czym polega projekt 2
+## Na czym polega projekt
 
 Głównym celem aplikacji jest pobieranie danych pogodowych z zewnętrznego API OpenWeatherMap i prezentowanie ich w przystępny sposób. Użytkownik wchodzi na stronę główną, gdzie może wpisać nazwę miasta. Po zatwierdzeniu, aplikacja wysyła zapytanie do API OpenWeatherMap, przetwarza otrzymane dane i wyświetla je na nowej stronie.
 
